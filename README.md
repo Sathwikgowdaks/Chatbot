@@ -45,4 +45,4 @@ Backend (Hasura + Nhost) is pre-configured with chats/messages schema and RLS po
 
 ## 👨‍💻 Author
 
-Developed by \[Your Name]
+Developed by Sathwik
